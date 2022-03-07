@@ -1,0 +1,12 @@
+.form {
+  width: 700px;
+}
+
+.flex {
+  display: flex;
+  flex: auto;
+}
+
+.bg-gradient {
+  background: linear-gradient(to right, #334d50, #cbcaa5);
+}
